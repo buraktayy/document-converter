@@ -1,0 +1,10 @@
+pywin32
+customtkinter
+PyMuPDF
+pdfplumber
+img2pdf
+tkinterdnd2
+openpyxl==3.1.5
+pillow==12.2.0
+python-pptx==1.0.2
+pdf2docx
